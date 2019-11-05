@@ -1,0 +1,51 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "hugo.trsd@gmail.com",
+                "Name": "Hugo Trassoudaine"
+            }
+        ],
+        "Id": "b33349ff-a492-49d9-9576-ac25f2c0ae8e",
+        "Name": "Your Name. (君の名は。)"
+    },
+    "Wallpaper": {
+        "Preview": "preview.jpg",
+        "Smooth": false,
+        "Type": "timed",
+        "MetaData": [
+            {
+                "Time": 0.208,
+                "FileName": "your_name-3.jpg"
+            },
+            {
+                "Time": 0.292,
+                "FileName": "your_name-4.jpg"
+            },
+            {
+                "Time": 0.375,
+                "FileName": "your_name-5.jpg"
+            },
+            {
+                "Time": 0.458,
+                "FileName": "your_name-1.jpg"
+            },
+            {
+                "Time": 0.625,
+                "FileName": "your_name-5.jpg"
+            },
+            {
+                "Time": 0.75,
+                "FileName": "your_name-4.jpg"
+            },
+            {
+                "Time": 0.833,
+                "FileName": "your_name-3.jpg"
+            },
+            {
+                "Time": 0.917,
+                "FileName": "your_name-2.jpg"
+            }
+        ]
+    }
+}
